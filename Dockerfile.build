@@ -1,4 +1,4 @@
-FROM golang:1.9.2-alpine3.7
+FROM golang:1.11.5-alpine3.7
 
 # A container to build the sample Go code
 
